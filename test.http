@@ -1,0 +1,7 @@
+POST http://localhost:7071/api/dbupdate?name=val HTTP/1.1
+content-type: application/json
+
+{
+    "name": "dsd",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
